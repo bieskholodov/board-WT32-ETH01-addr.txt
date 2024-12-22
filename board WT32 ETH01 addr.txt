@@ -1,0 +1,22 @@
+{
+  "board": "WT32-ETH01",
+  "addr": 1,
+  "pwrPin": 16,
+  "mdcPin": 23,
+  "mdiPin": 18,
+  "phyType": 0,
+  "clkMode": 0,
+  "pwrAltPin": -1,
+  "btnPin":  -1,
+  "btnPlr": 1,
+  "uartSelPin": 4,
+  "uartSelPlr":  1,
+  "ledModePin": -1,
+  "ledModePlr": 0,
+  "ledPwrPin": -1,
+  "ledPwrPlr": 0,
+  "zbTxPin": 17,
+  "zbRxPin": 5,
+  "zbRstPin": 33,
+  "zbBslPin": 32
+}
